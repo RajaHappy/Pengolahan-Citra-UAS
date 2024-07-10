@@ -82,8 +82,8 @@ if uploaded_file is not None:
 
 ### Tampilan Aplikasi
 
-1. **Tampilan Halaman**
-![halaman](UASPengolahanCitra/pict/halaman.png)
+1. **Foto Bahan**
+![foto](https://github.com/RajaHappy/Pengolahan-Citra-UAS/blob/main/foto/eee.jpg)
 
 2. **Tampilan Gambar Asli**
 ![pict-asli](UASPengolahanCitra/pict/pict-asli.png)
