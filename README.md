@@ -2,6 +2,8 @@
 | ------------- | ------------- |------------- |
 | Raja Happyanto  | 312210235 | TI 22 A2 |
 
+(github baru/github lama rusak 😅😭)
+
 ## UAS Proyek Segmentasi Gambar Menggunakan K-Means dan Streamlit
 
 ### Penjelasan
