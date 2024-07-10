@@ -85,11 +85,20 @@ if uploaded_file is not None:
 1. **Foto Bahan**
 ![foto](https://github.com/RajaHappy/Pengolahan-Citra-UAS/blob/main/foto/eee.jpg)
 
-2. **Tampilan Gambar Asli**
-![pict-asli](UASPengolahanCitra/pict/pict-asli.png)
+2. **Tampilan Halaman Depan**
+![foto](https://github.com/RajaHappy/Pengolahan-Citra-UAS/blob/main/foto/Screenshot%20(190).png)
 
-3. **Tampilan Gambar Tersegmentasi**
-![pict-segmen](UASPengolahanCitra/pict/pict-segmen.png)
+3. **Tampilan Pemilihan jumlah klaster**
+![foto](https://github.com/RajaHappy/Pengolahan-Citra-UAS/blob/main/foto/Screenshot%20(191).png)
 
-4. **Tampilan Persentase Warna**
-![persentase](UASPengolahanCitra/pict/persentase.png)
+4. **Tampilan gambar tersekmentasi**
+![foto](https://github.com/RajaHappy/Pengolahan-Citra-UAS/blob/main/foto/Screenshot%20(192).png)
+
+5. **Tampilan Persentase**
+![foto](https://github.com/RajaHappy/Pengolahan-Citra-UAS/blob/main/foto/Screenshot%20(194).png)
+
+5. **Tampilan kode editor <_>**
+![foto](https://github.com/RajaHappy/Pengolahan-Citra-UAS/blob/main/foto/Screenshot%20(189).png)
+
+# Thankyou
+
