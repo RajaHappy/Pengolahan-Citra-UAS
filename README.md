@@ -1,8 +1,12 @@
+# Praktik kelompok ada di sini :
+
+https://github.com/Hapiyansyah/UAS-PengolahanCitra?tab=readme-ov-file
+
+# Praktik mandiri
 | Nama  |  Nim | Kelas |
 | ------------- | ------------- |------------- |
 | Raja Happyanto  | 312210235 | TI 22 A2 |
 
-(github baru/github lama rusak 😅😭)
 
 ## UAS Proyek Segmentasi Gambar Menggunakan K-Means dan Streamlit
 
